@@ -1,0 +1,2 @@
+# akosua.txt
+Clement Afotey
